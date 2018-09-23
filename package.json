@@ -1,0 +1,22 @@
+{
+  "name": "gulp-sass-template",
+  "version": "1.0.0",
+  "description": "Repository for bootstrapping a project with SASS , bootstrap, jQuery configured for front-end projects using gulp-task runner",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WingChhun/gulp-sass-template.git"
+  },
+  "author": "James Chhun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WingChhun/gulp-sass-template/issues"
+  },
+  "homepage": "https://github.com/WingChhun/gulp-sass-template#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
